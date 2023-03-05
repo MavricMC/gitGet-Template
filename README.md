@@ -24,7 +24,7 @@ On the next line you want to add the path of the file eg: `code.lua` or `folder/
 REMOVE THIS PART ONCE CLONED.
 ```
 
-`Add description here`
+# `Add description here`
 
 # How to install.
 
