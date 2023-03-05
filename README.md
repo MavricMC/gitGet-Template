@@ -4,6 +4,7 @@
   <a href="https://github.com/MavricMC/CC-Test/releases/"><img src="https://img.shields.io/github/release/MavricMC/CC-Test.svg" alt="Release"/></a>
 </p>
 
+```
 REMOVE THIS PART ONCE CLONED.
 
 This is a template for people using the `gitGet-github raw downloader`.
@@ -21,8 +22,9 @@ On the next line you want to add the `githubUsername` then `/` then the reposito
 On the next line you want to add the path of the file eg: `code.lua` or `folder/code.lua`.
 
 REMOVE THIS PART ONCE CLONED.
+```
 
-Add dectiptopn here
+`Add description here`
 
 # How to install.
 
