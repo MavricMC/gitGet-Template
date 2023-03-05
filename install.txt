@@ -1,5 +1,5 @@
 testFolder
-MavricMC/CC-Test/main/code.lua
+MavricMC/gitGet-Template/main/code.lua
 code.lua
-MavricMC/CC-Test/main/functions.lua
+MavricMC/gitGet-Template/main/functions.lua
 folder/functions.lua
