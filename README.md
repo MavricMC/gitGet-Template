@@ -1,4 +1,4 @@
-# Repo_Name
+# Project Name
 <p align="center">
   <a href="https://github.com/MavricMC/CC-Test/releases/"><img src="https://img.shields.io/github/downloads/MavricMC/CC-Test/total.svg" alt="GitHub All Releases"/></a>
   <a href="https://github.com/MavricMC/CC-Test/releases/"><img src="https://img.shields.io/github/release/MavricMC/CC-Test.svg" alt="Release"/></a>
