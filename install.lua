@@ -1,4 +1,4 @@
-MavricMC/CC-Test/blob/main/code.lua
+MavricMC/CC-Test/code.lua
 code.lua
-MavricMC/CC-Test/blob/main/functions.lua
+MavricMC/CC-Test/functions.lua
 functions.lua
