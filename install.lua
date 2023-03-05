@@ -1,1 +1,2 @@
---make sure to install the github raw downloader first--
+MavricMC/CC-Test/blob/main/code.lua
+MavricMC/CC-Test/blob/main/functions.lua
