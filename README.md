@@ -1,4 +1,8 @@
 # Repo_Name
+<p align="center">
+  <a href="https://github.com/MavricMC/CC-Test/releases/"><img src="https://img.shields.io/github/downloads/MavricMC/CC-Test/total.svg" alt="GitHub All Releases"/></a>
+</p>
+
 REMOVE THIS PART ONCE CLONED.
 This is a template for people using the gitGet-github raw downloader.
 To setup the installer you must edit the "install.txt" file.
