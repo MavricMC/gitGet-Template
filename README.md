@@ -13,8 +13,6 @@ To setup the installer you must edit the `install.txt` file.
 
 First you must change `testFolder` to the name of the folder you want the files to be in.
 
-The folder will get a `_main` or whatever version your downloading added on.
-
 Repeat the next 2 steps for every file you want in the folder.
 
 On the next line you want to add the `githubUsername` then `/` then the repository name then `/` then the version the `/` then the `pathToFileInRepo` eg: `MavricMC/gitGet-Template/main/code.lua` or `MavricMC/gitGet-Template/main/function.lua`
