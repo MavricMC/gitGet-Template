@@ -2,10 +2,12 @@
 ```
 REMOVE THIS PART ONCE CLONED.
 ```
+
 <p align="center">
   <a href="https://github.com/MavricMC/gitGet-Template/releases/"><img src="https://img.shields.io/github/downloads/MavricMC/gitGet-Template/total.svg" alt="GitHub All Releases"/></a>
   <a href="https://github.com/MavricMC/gitGet-Template/releases/"><img src="https://img.shields.io/github/release/MavricMC/gitGet-Template.svg" alt="Release"/></a>
 </p>
+
 ```
 This is a template for people using the `gitGet-github raw downloader`.
 
