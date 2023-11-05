@@ -1,11 +1,10 @@
-# Project Name
+
+```
+REMOVE THIS PART ONCE CLONED.
 <p align="center">
   <a href="https://github.com/MavricMC/gitGet-Template/releases/"><img src="https://img.shields.io/github/downloads/MavricMC/gitGet-Template/total.svg" alt="GitHub All Releases"/></a>
   <a href="https://github.com/MavricMC/gitGet-Template/releases/"><img src="https://img.shields.io/github/release/MavricMC/gitGet-Template.svg" alt="Release"/></a>
 </p>
-
-```
-REMOVE THIS PART ONCE CLONED.
 
 This is a template for people using the `gitGet-github raw downloader`.
 
@@ -20,11 +19,19 @@ On the next line you want to add the `githubUsername` `/` then the `repository` 
 On the next line you want to add the path of the file eg: `code.lua` or `folder/code.lua`.
 Any file will always be put in `testFolder` or what ever you named it so you dont need to add it to every file path
 
+Also, don't forget to change the download count and releases button to your new repository.
+
 REMOVE THIS PART ONCE CLONED.
 ```
+# Project Name
+
+<p align="center">
+  <a href="https://github.com/githubUsername/repositoryName/releases/"><img src="https://img.shields.io/github/downloads/githubUsername/repositoryName/total.svg" alt="GitHub All Releases"/></a>
+  <a href="https://github.com/githubUsername/repositoryName/releases/"><img src="https://img.shields.io/github/release/githubUsername/repositoryName.svg" alt="Release"/></a>
+</p>
 
 # `Add description here`
 
 # How to install.
 
-To install this github repository in CC-Tweaked you must first run `pastebin run dgrAh4CY` to install gitGet then run `gitGet install githubUsername/repositoryName (put a version number here if you dont want to install latest)`.
+To install this github repository in CC-Tweaked you must first run `pastebin run dgrAh4CY` to install gitGet then run `gitGet install githubUsername/repositoryName`.
