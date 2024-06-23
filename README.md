@@ -23,7 +23,7 @@ On the next line, you want to add the path of the file eg: `code.lua` or `testFo
 
 Also, don't forget to change the download count and releases button to your new repository.
 
-Check out my CC-Blackjack repository if you need to protect your programs from attacks that use floppy disk startup file priority.
+Check out my CC-Blackjack repository if you need to protect your programs from attacks that use disk startup file priority.
 https://github.com/MavricMC/CC-Blackjack
 The .settings file and how it's installed with gitget.
 
